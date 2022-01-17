@@ -1,0 +1,22 @@
+.header{
+background-color:bisque;
+display: flex;
+justify-content: space-around;
+
+}
+
+
+.grid{
+    background-color: coral;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.footer{
+
+display: flex;
+justify-content:center ;
+
+
+}
